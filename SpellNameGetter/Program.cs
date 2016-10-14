@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using EloBuddy;
 using EloBuddy.SDK;
+using EloBuddy.SDK.Constants;
 using EloBuddy.SDK.Events;
 using EloBuddy.SDK.Menu;
 using EloBuddy.SDK.Menu.Values;
@@ -31,6 +32,21 @@ namespace SpellNameGetter
                 menu.AddSeparator();
             };
             GameObject.OnCreate += GameObjectOnOnCreate;
+            AIHeroClient.OnProcessSpellCast += AiHeroClientOnOnProcessSpellCast;
+        }
+
+        private static void AiHeroClientOnOnProcessSpellCast(Obj_AI_Base sender, GameObjectProcessSpellCastEventArgs args)
+        {
+            // ReSharper disable once UseNullPropagation
+            if (!(sender is AIHeroClient))
+                return;
+
+            var caster = (AIHeroClient)sender;
+            if (!GetHeroNames().Contains(caster.ChampionName))
+                return;
+
+            if (!args.IsAutoAttack())
+                Chat.Print("Skillshot Name Detected: " + args.SData.Name);
         }
 
         static IEnumerable<string> GetHeroNames()
@@ -52,7 +68,8 @@ namespace SpellNameGetter
             if (!GetHeroNames().Contains(caster.ChampionName))
                 return;
 
-            Chat.Print("Projectile Name Detected: " + mis.SData.Name);
+            if (!mis.SData.IsAutoAttack())
+                Chat.Print("Game Object Name Detected: " + mis.SData.Name);
         }
     }
 }
