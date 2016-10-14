@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\SpellNameGetter.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\SpellNameGetter.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\SpellNameGetter.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\EloBuddy.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\EloBuddy.SDK.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\SharpDX.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Release\Newtonsoft.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Release\SpellNameGetter.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Release\SpellNameGetter.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Release\SpellNameGetter.pdb

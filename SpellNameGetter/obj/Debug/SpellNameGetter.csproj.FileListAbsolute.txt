@@ -1,0 +1,10 @@
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\SpellNameGetter.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\SpellNameGetter.exe
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\SpellNameGetter.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\EloBuddy.dll
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\EloBuddy.SDK.dll
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\SharpDX.dll
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Debug\SpellNameGetter.exe
+c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Debug\SpellNameGetter.pdb
