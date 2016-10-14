@@ -8,3 +8,4 @@ c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameG
 c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\bin\Debug\Newtonsoft.Json.dll
 c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Debug\SpellNameGetter.exe
 c:\users\daniel\documents\visual studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Debug\SpellNameGetter.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SpellNameGetter\SpellNameGetter\obj\Debug\SpellNameGetter.csprojResolveAssemblyReference.cache

@@ -27,7 +27,7 @@ namespace SpellNameGetter
                         continue;
 
                     heroCache.Add(hero.ChampionName);
-                    menu.Add(hero.ChampionName, new CheckBox("Track the Spells of " + hero.ChampionName, false));
+                    menu.Add(hero.ChampionName, new CheckBox("Track the Spells of " + hero.ChampionName));
                 }
                 menu.AddSeparator();
             };
